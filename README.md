@@ -1,4 +1,4 @@
 # Moscow-Notes
 ## Git for my application ^^^ <br>
-[![Download!]([Resources/drawable/download-svgrepo-com.svg](https://www.carecredit.com/sites/cc/image/download-app-icon.png))](https://github.com/BaaBBaBaI/Moscow-Notes-S/blob/main/bin/Release/com.companyname.xamarinunderstanding.apk) <br>
+[![Download!]([https://www.carecredit.com/sites/cc/image/download-app-icon.png])](https://github.com/BaaBBaBaI/Moscow-Notes-S/blob/main/bin/Release/com.companyname.xamarinunderstanding.apk) <br>
 Introducing Moscow Notes - the ultimate note-taking app for your daily life! With Moscow Notes, you can easily create notes from text, audio, video, and even extract text from images and documents. Keep your notes safe with password protection for individual notes or the app itself. Set reminders for your notes, whether it's a one-time or recurring event. Organize your notes with folders and tags, and search for them easily. Plus, with our Smart Folders feature, you can quickly access your most important notes. Download Moscow Notes today and take your note-taking to the next level!!
