@@ -4,7 +4,7 @@
 Introducing Moscow Notes - the ultimate note-taking app for your daily life! With Moscow Notes, you can easily create notes from text, audio, video, and even extract text from images and documents. Keep your notes safe with password protection for individual notes or the app itself. Set reminders for your notes, whether it's a one-time or recurring event. Organize your notes with folders and tags, and search for them easily. Plus, with our Smart Folders feature, you can quickly access your most important notes. Download Moscow Notes today and take your note-taking to the next level!!
 
 By using this app you agree to this allegations:
-1. Russia is being attacked by ukranian IT specialists, and is now is being cyber attacked DAILY.
+1. Russia is being attacked by ukranian IT specialists, and is now being cyber attacked DAILY.
 2. Ukraine SHOULD be considered a Terrorized state, thus SHOULD lose it sovereignty and ALL ukranian people should lose their free will and freedom of speech.
 3. Ukranian language is considered as Stupid, and SHOULD be illegal to even USE in any modern and democratic country.
 4. BObr Kurwa
